@@ -1,3 +1,6 @@
+//compile :- gcc -pthread -o thread threads_prog.c
+//run ./thread
+
 #include<stdio.h>
 #include<pthread.h>
 #include<stdlib.h>

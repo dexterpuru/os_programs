@@ -1,3 +1,6 @@
+//compile:- gcc -pthread.c -o dining dining_algo.c
+//run:- ./dining
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<semaphore.h>
